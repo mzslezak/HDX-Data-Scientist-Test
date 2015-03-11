@@ -1,4 +1,4 @@
-# HDX Data Science Test
+# HDX Data Scientist Test
 This repository contains a broken script that needs to be fixed. The script contains 3 errors:
 
 1. The function fails to run.
