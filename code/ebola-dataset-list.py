@@ -48,7 +48,7 @@ def getDatasetListforTag(tag = None, l = None, verbose = False):
 	if d["success"] is True:
 		m = color("SUCCESS", "green", attrs=['bold'])
 		n = color(len(d["result"]["packages"]), "blue", attrs=['dark'])
-        print "%s : processing %s records." % (m, n)
+		print "%s : processing %s records." % (m, n)
 
         f = csv.writer(open(l, "wb+"))
         
