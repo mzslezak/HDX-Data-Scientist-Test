@@ -31,4 +31,4 @@ $ source venv/bin/activate
 $ python code/ebola-datasets-list.py
 ```
 
-Either approach above will throw an error. That'll be the start of the test.
+Either approach above will throw an error. Fix it.
