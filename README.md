@@ -13,7 +13,7 @@ The `ebola-dataset-list.py` script queries the [Humanitarian Data Exchange repos
 The CSV file available in this repository contains the results of a run with the broken script. The objective is to generate that file, but without the errors it currently presents. That sample CSV file can be found [here](data/dataset-list.csv).
 
 ## Getting Started
-The first step is to **clone** this repository locally -- (*do not fork!*). You will work on the solution on your local computer. When done, you can submit the whole repository as a `ZIP` package to the evaluation team.
+The first step is to **clone** this repository locally -- (*do not fork!*). You will work on the solution on your local computer. When done, you can submit the whole repository as a `ZIP` package to the evaluation team via email.
 
 Also, remember to install this script's dependencies from `requirements.txt`.
 
