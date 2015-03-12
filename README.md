@@ -5,7 +5,7 @@ This repository contains a broken script that needs to be fixed. The script cont
 2. The columns of the CSV output are improperly organized.
 3. Some records fail to be written in the output CSV file.
 
-A successful candidate would be able to identify the source of all the errors above and will be able to fix them, making sure that the script runs successully and that the output CSV file is correct.
+You should be able to identify the source of all the errors above and be able to fix them, making sure that the script runs successully and that the output CSV file is correct.
 
 ## Script Objective
 The `ebola-dataset-list.py` script queries the [Humanitarian Data Exchange API](http://docs.ckan.org/) and creates a CSV file with the results of the query. We are interested in getting a table with all datasets that contain the tag "ebola". The table should contain a subset of the number of metadata fields available in the query result, but not all of them.
@@ -31,4 +31,4 @@ $ source venv/bin/activate
 $ python code/ebola-datasets-list.py
 ```
 
-Either approach above will throw an error. Fix it.
+Either approach above will throw an error. That's when the test starts. Good luck!
