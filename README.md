@@ -1,7 +1,7 @@
 # HDX Data Scientist Test
 This repository contains a broken script that needs to be fixed. The script contains 3 errors:
 
-1. The function fails to run.
+1. The main function fails to run.
 2. The columns of the CSV output are improperly organized.
 3. Some records fail to be written in the output CSV file.
 
